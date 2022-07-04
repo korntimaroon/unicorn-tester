@@ -8,6 +8,8 @@
  .color-white {
 	 color: #fff;
 }
+.primaryFont {
+	font-family: 'Poppins', sans-serif;
  .hoverChanger-white:hover {
 	 background-color: grey;
 	 color: #fff;
